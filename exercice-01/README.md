@@ -14,7 +14,7 @@
 
 ### Algorigramme :
 
-![](exercice-01-algo.png);
+![](exercice-01-algo.png)
 
 ### PseudoCode :
 
